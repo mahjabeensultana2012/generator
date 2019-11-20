@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h2>Hello Meme Generator</h2>
+        <h2>Welcome to Meme Generator</h2>
       </div>
     );
   }
